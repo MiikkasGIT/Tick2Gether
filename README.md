@@ -3,7 +3,7 @@
 ## Beschreibung
 **Tick2Gether** ist eine Webanwendung zur Aufgaben- und Teamverwaltung, die Echtzeitkommunikation und intuitive Bedienung kombiniert. Sie richtet sich an Teams und Einzelpersonen, die Aufgaben effizient organisieren und in Echtzeit zusammenarbeiten möchten. Der Fokus liegt auf einer modernen, skalierbaren Architektur und einer benutzerfreundlichen Oberfläche.
 
-![Dashboard von Tick2Gether](tick2gether.png)
+![Dashboard von Tick2Gether](Tick2Gether.png)
 
 ## Features
 - **Dashboard & ToDo-Bereich**: Übersicht über anstehende Aufgaben und einfache Verwaltung.
