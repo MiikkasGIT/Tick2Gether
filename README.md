@@ -3,6 +3,7 @@
 Tick2Gether is a real-time task and collaboration platform designed for teams and individuals who want to manage tasks efficiently and stay synchronized.
 
 It combines structured task management with live updates across all clients.
+![Dashboard von Tick2Gether](Tick2Gether.png)
 
 ---
 
